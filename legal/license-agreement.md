@@ -83,7 +83,7 @@ Some states/jurisdictions do not allow the exclusion or limitation of incidental
 
 ## Privacy Policy
 
-We care about data privacy and security. Please review our Privacy Policy: [https://addreminders.github.io/privacy-policy](https://addreminders.github.io/privacy-policy). By using the Application, you agree to be bound by our Privacy Policy, which is incorporated into this Agreement.&#x20;
+We care about data privacy and security. Please review our Privacy Policy: [https://appsforchat.com/privacy](https://appsforchat.com/privacy). By using the Application, you agree to be bound by our Privacy Policy, which is incorporated into this Agreement.&#x20;
 
 ## Severability and Waiver
 
