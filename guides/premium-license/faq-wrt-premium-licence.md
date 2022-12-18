@@ -1,11 +1,5 @@
 # FAQ wrt Premium Licence
 
-#### What should I do if I got a licence with only a month's validity? or What if my trial expired before January 2023?
-
-In this case, please generate a new licence from [here](how-to-get-license-for-free-limited-time.md).
-
-
-
 **What should I do if the Licence isn't working?**
 
 Firstly, please check if you see any error logs wrt Reminder app licence on either \

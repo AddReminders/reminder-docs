@@ -48,4 +48,4 @@ In the case of **Channel** reminders, the Reminder bot will send a message immed
 
 On the other hand, in the case of **User** reminders, the reminder bot will only send out a reminder to the target users, when the reminder is due via a Direct Message.
 
-![User Reminder Notification](<../../.gitbook/assets/image (5).png>)
+![User Reminder Notification](<../../.gitbook/assets/image (5) (1).png>)

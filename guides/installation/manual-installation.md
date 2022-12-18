@@ -4,11 +4,15 @@
 
 1. Go to Administration Panel&#x20;
 
-![](<../../.gitbook/assets/image (28).png>)
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Accessing admin panel on newer versions of Rocket.Chat</p></figcaption></figure>
 
-&#x20;  2\. Goto **General** -> **Apps** -> and turn on **Enable development mode**
+Or, if you're on an older version of Rocket.Chat, then:
 
-![](<../../.gitbook/assets/image (6).png>)
+![Access admin panel on older versions of Rocket.Chat](<../../.gitbook/assets/image (28).png>)
+
+&#x20;  2\. Goto **General (or "Settings -> General" on newer versions )** -> **Apps** -> and turn on **Enable development mode**
+
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ### **Step 2: Download the Reminder App package**
 

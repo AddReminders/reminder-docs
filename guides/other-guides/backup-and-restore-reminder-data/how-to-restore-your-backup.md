@@ -14,7 +14,7 @@
     <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 2.  Next, we need to get the API URL for the endpoint which we'll be using to restore the backup. You can get it by going to Reminder app's details panel. On the details panel, locate the API section and grab the URL ending with `restoreBackup`
 
-    <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Restore backup API URL</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Restore backup API URL</p></figcaption></figure>
 3. Next use your favorite API platform (like Postman) to send an API request to the URL you got in step 2. The request should be JSON based and should have a property named `backupFileUrl` , which is the message URL you got in step 1. Here's a sample request
 
 ```markup

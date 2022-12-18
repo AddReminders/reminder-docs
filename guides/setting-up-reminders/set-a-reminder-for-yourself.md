@@ -21,7 +21,7 @@ Available on Version 2.0.0 and above
    2. Click on **User** Tab
    3. Search for **remind.bot** and click on the bot
 
-![Starting a Direct Message with the Reminder Bot](<../../.gitbook/assets/image (4).png>)
+![Starting a Direct Message with the Reminder Bot](<../../.gitbook/assets/image (4) (1).png>)
 
 &#x20; 2\. After starting the Direct Message with Reminder Bot, click on the Plus Icon in the message input field on the bottom right - then click on **Add Reminders**
 

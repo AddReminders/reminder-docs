@@ -18,7 +18,7 @@ Remind yourself about a message in Rocket.Chat
 
 When the reminder is due, then you'll receive a notification from the Reminder bot. The reminder notification will contain a link to the message which you asked to be reminded about, along with a small preview of the message.
 
-![Reminder notification with linked message](<../../.gitbook/assets/image (18).png>)
+![Reminder notification with linked message](<../../.gitbook/assets/image (18) (1).png>)
 
 {% hint style="info" %}
 Note: If you don't the message preview, it might be because the "remind.bot" doesn't have access to the message. This might be the case when your message is from a private channel. You can solve this by inviting the bot to channel to the corresponding channel using the "/invite remind.bot" command
