@@ -18,6 +18,7 @@
   * [Mark a reminder as complete](guides/managing-reminders/mark-a-reminder-as-complete.md)
   * [Delete a reminder](guides/managing-reminders/delete-a-reminder.md)
 * [Other guides](guides/other-guides/README.md)
+  * [Daylight Saving's guide](guides/other-guides/daylight-savings-guide.md)
   * [Change preferred Language](guides/other-guides/change-preferred-language.md)
   * [Backup and Restore Reminder Data](guides/other-guides/backup-and-restore-reminder-data/README.md)
     * [How to create Backup?](guides/other-guides/backup-and-restore-reminder-data/how-to-create-backup.md)
