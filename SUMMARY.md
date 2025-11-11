@@ -23,17 +23,3 @@
   * [Backup and Restore Reminder Data](guides/other-guides/backup-and-restore-reminder-data/README.md)
     * [How to create Backup?](guides/other-guides/backup-and-restore-reminder-data/how-to-create-backup.md)
     * [How to restore your Backup?](guides/other-guides/backup-and-restore-reminder-data/how-to-restore-your-backup.md)
-* [Premium License](guides/premium-license/README.md)
-  * [Benefits of getting License](guides/premium-license/benefits-of-getting-license.md)
-  * [Start a free trial](guides/premium-license/start-a-free-trial.md)
-  * [How to purchase a Premium license](guides/premium-license/how-to-purchase-a-premium-license.md)
-  * [How to set up your License on Rocket.Chat server](guides/premium-license/how-to-set-up-your-license-on-rocket.chat-server.md)
-  * [Where to find Workspace Site\_Url for License](guides/premium-license/where-to-find-workspace-site\_url-for-license.md)
-  * [FAQ wrt Premium Licence](guides/premium-license/faq-wrt-premium-licence.md)
-
-## LEGAL
-
-* [Privacy Policy](legal/privacy-policy.md)
-* [Terms of Use](legal/terms-of-use.md)
-* [License Agreement](legal/license-agreement.md)
-* [Credits](legal/credits.md)

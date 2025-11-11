@@ -1,6 +1,6 @@
 # What is Reminder Bot?
 
-Reminder Bot in Rocket.Chat allows you to set up reminders for yourself or for your team, directly from Rocket.Chat.&#x20;
+Reminder Bot in Rocket.Chat allows you to set up reminders for yourself or for your team, directly from Rocket.Chat.
 
 Use the `/remind` slashcommand or shortcuts menu to set reminders for yourself, someone else in your team, or even an entire channel. You can also set reminders from specific messages that you’d like to come back to later. It also allows you to automate some of your team's workflows using Recurring Reminders.
 
@@ -20,16 +20,16 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [managing-reminders](guides/managing-reminders/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/premium-license/" %}
-[premium-license](guides/premium-license/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Features:
 
 ![](.gitbook/assets/1.png)
 
-![](<.gitbook/assets/2 (2).png>)
+![](.gitbook/assets/2.png)
 
 ![](.gitbook/assets/3.png)
 
-![](<.gitbook/assets/4 (1).png>)
+![](.gitbook/assets/4.png)
